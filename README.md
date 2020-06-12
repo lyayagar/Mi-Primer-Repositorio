@@ -6,18 +6,12 @@ Testando Github
 ## Aprendiendo Markdown
 
  
-
 En la clase de EconGrowth
-
- 
 
 1. Escribiendo títulos
 2. Creando listas numeradas
 
  
-
- 
-
 *Listas no numeradas*
 
  
@@ -37,3 +31,5 @@ En la clase de EconGrowth
 1 + 1
 ```
 ~!@#$$%^^&&**(()_+}|{":>?/.,;'][p=-   ]'"})
+
+Esta es una nueva seccion
